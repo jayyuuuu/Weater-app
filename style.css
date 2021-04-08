@@ -135,6 +135,7 @@ nav{
 
     color: white;
     padding: 0px 20px;
+    outline-style: none;
 
 }
 
@@ -142,6 +143,7 @@ nav{
 .btn i:hover{
     
     color:orange;
+     outline-style: none;
     transform: scale(1.5);
 }
 
